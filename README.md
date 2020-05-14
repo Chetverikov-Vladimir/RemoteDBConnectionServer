@@ -1,0 +1,1 @@
+Сервер проксирования и предвирительной обработки данных из Hive в Oracle. Работает с клиентом https://github.com/Chetverikov-Vladimir/RemoteDBConnectionClient
